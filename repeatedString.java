@@ -1,3 +1,10 @@
+/*Print a single integer denoting the number of letter a's in the first N
+letters of the infinite string created by repeating S infinitely many
+times.
+
+S is the string. N is the length of the "infinite" string. The problem
+is to find the amount of a's in the "infinite" string.*/
+
 import java.io.*;
 import java.util.*;
 import java.text.*;
