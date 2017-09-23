@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class lab7 {
+public class hashingAlgorithmSolution {
     static int size = 400000;
 //this is the size of the hash table - a prime number is best
     static String[] hashTable = new String[size];
